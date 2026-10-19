@@ -121,7 +121,3 @@ The application extracts text from uploaded PDF and TXT resumes and calculates t
 **Ajay Maurya**
 
 GitHub: [ajay3750](https://github.com/ajay3750)
-
-## 📜 License
-
-No license has been selected yet. Add an open-source license if you intend to permit others to reuse, modify, or distribute this project.
